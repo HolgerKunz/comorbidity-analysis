@@ -19,8 +19,8 @@ See the [source code](https://github.com/fernandogelin/comorbidity-analysis/blob
 
 The results of the analysis are not surprising.  The disease that most co-occur with obesity is Diabetes Mellitus, Type 2. As shown in the figure below, Diabetes Mellitus, Type 2 occurs almost twice as much as the next most common obesity comorbidity. This means, that in most cases, obesity related to a self-inflicted disease.
 
-![Figure 1. Fifteen most common obesity comorbidities](image/comorbidities.png)
+![Figure 1. Fifteen most common obesity comorbidities](images/comorbidities.png)
 
 Our dataset corresponds to all articles on PubMed between 2000 and 2012, and thus includes studies on subjects of different ages. I wanted to explore further the dataset to see if Diabetes Mellitus, Type 2 is more common in older people, as it is expected. The figure below shows the percentage of articles for each of the top 15 obesity comorbidities divided by age group (the age group is one of the MeSH descriptors and can also be extracted from each article).
 
-![Figure 2. Fifteen most common obesity comorbidities](image/comorbidities_by_age.png)
+![Figure 2. Fifteen most common obesity comorbidities](images/comorbidities_by_age.png)
