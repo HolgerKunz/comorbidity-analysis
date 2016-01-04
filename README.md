@@ -33,6 +33,6 @@ The results of the analysis are unsurprising. The disease that most co-occurs wi
 
 ![Figure 1. Fifteen most common obesity comorbidities](images/comorbidities.png)
 
-To further explore the dataset and check if Diabetes Mellitus, Type 2 is more common in older people, as it is expected, the MaSH descriptors age groups were extracted. The figure below shows the percentage of articles for each of the top 15 obesity comorbidities divided by age group. The data shows that Asthma has a large proportion of all comorbidities in children between 1 and 12 years old.
+To further explore the dataset and see if that pattern changes for different age groups, the MaSH descriptors for age groups were extracted. The figure below shows the proportion of articles for each of the top 15 comorbidities divided by age group. The figure shows that Pregnancy Complications are possibly related to obesity in newborns, Asthma is a common comorbidity for children, Diabetes Mellitus Type 2 is related to obesity in great proportions during adulthood, which is also when more diseases appear.
 
 ![Figure 2. Fifteen most common obesity comorbidities](images/comorbidities_by_age.png)
