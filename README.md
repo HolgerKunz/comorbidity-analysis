@@ -29,7 +29,7 @@ See the [source code](https://github.com/fernandogelin/comorbidity-analysis/blob
 
 ### Results
 
-The results of the analysis are unsurprising. The disease that most co-occurs with obesity is Diabetes Mellitus, Type 2. As shown in the figure below, Diabetes Mellitus, Type 2 occurs almost twice as often as the next most common comorbidity. Meaning that in many cases obesity is related to a preventable disease.
+The results of the analysis are unsurprising. The disease that most co-occurs with obesity is Diabetes Mellitus, Type 2. As shown in the figure below, Diabetes Mellitus, Type 2 is almost twice more frequently associated to obesity than the next most common comorbidity. Meaning that in many cases obesity can be associated to a preventable disease.
 
 ![Figure 1. Fifteen most common obesity comorbidities](images/comorbidities.png)
 
