@@ -24,7 +24,7 @@ Perform comorbidity analysis for obesity based on Medical Subject Headings (MeSH
 ### Methods
 
 The goal of the analysis is to explore the diseases or syndromes that co-occur with obesity. To measure comorbidity using the PubMed database, articles published between 2000 and 2012 were retrieved with 'obesity' as a MeSH Major Topic. Biopython's Entrez package allows interactions with NCBI's E-utilities and their databases. PubMed article ID, article titles, author names, MeSH descriptors and publication year were extracted from the articles matching the query. MeSH descriptors include, among other things, diseases and syndromes that are also contained in the article as a major topic. To select only the Diseases and Syndromes from the MeSH descriptors, a mapping of the MeSH descriptors to the Unified Medical Language System Semantic Types was created. The MeSH vocabulary file contains, among other things, theMeSH descriptor and a semantic type ID that the descriptor belongs to (in the format `T011`). The UMLS semantic type file contains the same ID and the corresponding semantic type. Using the ID as key the files may be mapped. Articles were then counted for each MeSH descriptor with corresponding semantic type `Disease or Syndrome`.
-See the [source code](https://github.com/fernandogelin/comorbidity-analysis/blob/master/comorbidity-analysis.ipynb) for detailed analysis.
+See the [source code](https://github.com/fernandogelin/comorbidity-analysis/blob/master/comorbidity-analysis.ipynb) or the [notebook on nbviewer](http://nbviewer.ipython.org/github/fernandogelin/comorbidity-analysis/blob/master/comorbidity-analysis.ipynb) for detailed analysis.
 
 
 ### Results
